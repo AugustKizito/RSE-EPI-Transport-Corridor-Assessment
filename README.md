@@ -1,7 +1,7 @@
 # RSE-EPI-Transport-Corridor-Assessment
 Remote Sensing Engineering Performance Index (RSE-EPI) for corridor resilience, early-warning &amp; threshold intervention.
 # Remote Sensing Engineering Performance Index (RSE-EPI)
-**Author:** Sitenda Amos (AugustKizito)  
+**Author: (AugustKizito)  
 **Application:** Tanzania SGR, Central & Mtwara Corridors  
 **Keywords:** NDVI, MNDWI, VIIRS NTL, SDM, Spillover, Early-Warning, EO-based Engineering
 
