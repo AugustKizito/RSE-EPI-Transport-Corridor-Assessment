@@ -166,7 +166,7 @@ Processing scripts: `src/` folder.
 
 ## 📌 Citation
 If you use this repository, please cite:
-**Sitenda, A., 2025. RSE-EPI Corridor Risk Diagnostics. GitHub.**
+**Kizito, A., 2025. RSE-EPI Corridor Risk Diagnostics. GitHub.**
 RSE-EPI-Transport-Corridor-Assessment/
 │
 ├── data/
